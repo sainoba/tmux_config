@@ -1,0 +1,2 @@
+# Ignore plugins files, install them instead with `<prefix> I`
+plugins/
